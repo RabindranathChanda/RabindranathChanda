@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Rabindranath Chanda</h1>
-<h3 align="center">Studen | Programmer | Software Engineer |</h3>
+<h3 align="center">Student | Programmer | Software Engineer |</h3>
 
 <!-- Right Animated gif file start -->
 
