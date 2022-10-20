@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 	</a> 
 </p>
-
+&nbsp;
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabindra7&show_icons=true&locale=en&layout=compact" alt="rabindra7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabindra7&show_icons=true&locale=en" alt="rabindra7" /></p>
