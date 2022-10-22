@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 	</a> 
 </p>
 &nbsp;
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabindra7&show_icons=true&locale=en&layout=compact" alt="rabindra7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RabindranathChanda&show_icons=true&locale=en&layout=compact" alt="RabindranathChanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabindra7&show_icons=true&locale=en" alt="rabindra7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RabindranathChanda&show_icons=true&locale=en" alt="RabindranathChanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabindra7&" alt="rabindra7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabindra7&" alt="RabindranathChanda" /></p>
 
