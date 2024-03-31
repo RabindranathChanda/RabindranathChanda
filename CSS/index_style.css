@@ -1,0 +1,544 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+    scroll-behavior: smooth;
+}
+
+/* ==========  Header ========== */
+
+.Header {
+    background-color: #fcfdff;
+    border: #73b3fa;
+    border-bottom-style: solid;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 0px 10px 0px #0072ef;
+}
+
+.logo {
+    color: #0072ef;
+    font-family: 'Oleo Script', cursive;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+nav {
+    display: flex;
+    margin-left: auto;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 15px;
+}
+
+nav ul li :hover {
+    color: #015c42;
+}
+
+nav ul li a {
+    color: #0072ef;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+/* ================================================= */
+
+
+/* ========== Home ========== */
+.quickers img{
+    top: 200px;
+    width: 50px;
+}
+
+.chat_sct{
+    right: 1rem;
+    bottom: 1rem;
+    display: grid;
+    padding: 10px;
+    margin: 10px;
+    position: fixed;
+}
+#chat,
+#srlup{
+    display: none;
+    cursor: pointer;
+    opacity: 85%;
+}
+#chat:hover,
+#srlup:hover{
+    opacity: 100%;
+    filter: drop-shadow(0px 0px 5px cyan);
+}
+
+
+
+
+.content {
+    position: relative;
+    align-items: center;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 90%;
+    width: 100%;
+}
+
+
+.my_img img {
+    position: absolute;
+    margin-left: 280px;
+    margin-top: -260px;
+    width: 382px;
+    height: 382px;
+    border-radius: 10%;
+    box-shadow: 0px 0px 15px 5px #0072ef;
+}
+
+.Greetings {
+    position: absolute;
+    top: 190px;
+    left: 158px;
+    justify-content: space-evenly;
+    display: flex;
+    color: #010540;
+    font-family: 'oleo script', sans-serif;
+    font-weight: normal;
+}
+
+.Greetings p {
+    padding-top: 19px;
+    background-color: transparent;
+    font-size: 70px;
+    line-height: 92%;
+}
+
+.prof {
+    font-size: 50px;
+}
+
+.My_Name {
+    color: #015c42;
+    font-family: 'Oleo Script', cursive;
+    font-weight: bolder;
+}
+
+.who-am-i {
+    color: #5c0108;
+    font-family: 'Oleo Script', cursive;
+    font-weight: bold;
+}
+
+/* ======  Socials  ======= */
+.socials {
+    position: absolute;
+    top: 480px;
+    left: 140px;
+}
+
+.socials ul {
+    display: flex;
+}
+
+.socials ul li {
+    padding-left: 15px;
+    list-style: none;
+}
+
+.socials button {
+    cursor: pointer;
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 40px;
+    padding-left: 19px;
+    box-shadow: 0px 0px 10px 2px #010540;
+    border: 2px solid #010540;
+    border-radius: 20px 20px 20px 20px;
+    color: #010540;
+    text-shadow: 0px 0px 1px currentColor;
+    font-size: 15px;
+    font-family: 'Ole Script', cursive;
+}
+
+.socials button a:link,
+.socials button a:visited{
+    color: currentColor;
+}
+
+.l {
+    visibility: hidden;
+}
+
+.socials button:hover {
+    color: white;
+    background-color: #010540;
+    padding: 0;
+    width: 120px;
+
+    .l {
+        visibility: visible;
+    }
+}
+
+/* ================================================== */
+
+
+/* ========== About Me ========== */
+
+.aboutme {
+    margin-top: -70px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 0px 0px 10px 1px #010540;
+    font-family: 'Poppins', sans-serif;
+    border: transparent;
+    border-style: solid;
+    border-radius: 15px;
+    background: url(../Static/brstk3T.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: auto;
+    /* background-color: #0072ef; */
+}
+
+.aboutme h1 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+    color: #010540;
+}
+
+.abtlg {
+    margin-top: -16px;
+    height: 80px;
+    width: 80px;
+}
+
+.whole {
+    display: flex;
+    justify-content: center;
+}
+
+.me {
+    padding-top: 25px;
+    padding-left: 80px;
+    padding-right: 80px;
+    width: 40%;
+    color: #010540;
+    font-size: 25px;
+    line-height: 130%;
+    font-family: "Texturina", serif;
+    text-align: left;
+    text-shadow: 0px 2px 8px white;
+}
+
+.me h4,
+h6 {
+    text-decoration: none;
+}
+
+.abimg {
+    width: 500px;
+    border-radius: 2%;
+    box-shadow: 0px 0px 10px 2px;
+}
+
+/* =================================================== */
+
+/* Skill section */
+
+
+.skill {
+    padding-bottom: 70px;
+    box-shadow: 0px 0px 10px 1px;
+    /* background-color: #02064f; */
+    background-color: #010540;
+}
+
+
+.head_logo {
+    filter: drop-shadow(0px 2px 1px #010540);
+    width: 50px;
+    padding-top: 14px;
+}
+
+.skill h1 {
+    text-align: center;
+    /* color: #010540; */
+    color: white;
+    font-size: 60px;
+}
+
+.skill span {
+    color: #ffdd00
+}
+
+.makeitcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ability {
+    background-color: #010b8f;
+    box-shadow: 0px 0px 10px 3px #000;
+    border-radius: .5rem;
+    height: auto;
+    width: auto;
+}
+
+.rows {
+    margin: 10px;
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+}
+
+.box {
+    background-color: teal;
+    box-shadow: 0px 0px 10px 1px #000;
+    border-radius: .5rem;
+    height: 110px;
+    width: 150px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .1s;
+}
+
+.box img {
+    width: 80px;
+    filter: drop-shadow(0px 1px 0px #fff);
+}
+
+.box:hover {
+    transform: translateY(-10px);
+}
+
+/* =============================================== */
+
+/* Contact Me */
+
+.contxt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    padding-top: 15px;
+    padding-left: 442px;
+    color: rgba(126, 0, 255, 1);
+    filter: drop-shadow(0px 5px 3px palevioletred);
+    font-size: 90px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contxt img {
+    filter: drop-shadow(0px 1px 1px white);
+    width: 150px;
+}
+
+.contact_me {
+    margin-top: 20px;
+    padding-top: 130px;
+    margin-bottom: 5px;
+    /* background: linear-gradient(90deg,rgba(174,236,255,1) 0%, rgba(59,152,241,1) 100%); */
+    background: #cadefc;
+    box-shadow: 0px 2px 20px 1px black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.gif_img {
+    width: 400px;
+    border: 6px solid #a764fa;
+    border-radius: 200px 200px 200px 300px;
+    box-shadow: 0px 0px 40px 5px palevioletred;
+}
+
+.gif_left {
+    padding: 50px;
+}
+
+.contact_me_form_sec {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+
+.contact_me_form_sec textarea {
+    height: 160px;
+    padding-top: 15px;
+    border-radius: 10px;
+    resize: none;
+}
+
+
+.contact_inputs {
+    width: 400px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding-left: 25px;
+    font-weight: 500;
+    color: #666;
+    border-radius: 10px;
+    border: 2px solid #a764fa;
+    filter: drop-shadow(0px 5px 10px);
+}
+
+.contact_inputs:hover {
+    border: 2px solid #ff5f39;
+}
+
+.contact_inputs:focus {
+    border: 2px solid #ff5f39;
+}
+
+.contact_inputs::placeholder {
+    color: #000;
+    font-size: 13px;
+}
+
+.contact_me_form_sec button {
+    display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    font-size: 16px;
+    color: #fff;
+    gap: 10px;
+    border: 2px solid #a764fa;
+    border-radius: 50px;
+    background: linear-gradient(270deg, #ff994f, #fa6d86);
+    filter: drop-shadow(0px 0px 5px #666);
+    cursor: pointer;
+}
+
+.contact_me_form_sec button:hover {
+    border: 2px solid #ff5f39;
+}
+
+.contact_btns{
+    display: flex;
+    
+}
+
+
+
+/* ====================================================== */
+
+
+/* Footer Section  */
+footer {
+    height: auto;
+    background-color: #010540;
+    overflow: hidden;
+}
+
+.acts hr {
+    height: 1px;
+    width: 190vh;
+    background-color: gray;
+    opacity: 40%;
+}
+
+.footsec {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    font-size: 35px;
+    color: white;
+}
+
+.col1{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    color: yellow; 
+    font-size: 40px;   
+}
+
+
+.desc{
+    color: darkgray;
+    font-size: 20px;
+}
+
+
+.navto,
+.quick_link{
+    display: grid;
+    margin:5px;
+    font-size: 20px;        
+}
+
+.navto a ,
+.quick_link a {
+    margin: 5px;
+}
+
+.navto a:link,
+.quick_link a:link{
+    color: darkgray;
+}
+.navto a:visited,
+.quick_link a:visited{
+color: darkgray;
+}
+.navto a:hover,
+.quick_link a:hover{
+    color: yellow;
+}
+
+.quick_link{
+    font-size: 20px;
+}
+.quick_link img{
+    width: 20px;
+    background-color:  white;
+    border-radius: 100%;
+}
+
+
+.acts {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    color: gray;
+}
+
+
+
+
+/* ============  Animations  ============ */
+#typewriter {
+    font-weight: bold;
+}
+
+.typed-cursor {
+    /* animation: blink .7s linear infinite; */
+    color: #010540;
+}
