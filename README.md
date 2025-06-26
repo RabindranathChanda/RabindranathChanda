@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindranathchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rabindranathchanda" /> </p>
 
-- 👨‍💻 My Portfolio :  [https://shorturl.at/vpbxL](https://shorturl.at/vpbxL)
+- 👨‍💻 My Portfolio :  https://rabindranathchanda.github.io/RabindranathChanda/
 
 - 📫 How to reach me **rabindra91237@gmail.com**
 
