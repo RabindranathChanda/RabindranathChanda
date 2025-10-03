@@ -8,8 +8,8 @@
 - 📫 How to reach me **rabindra91237@gmail.com**
 
 <h3 align="left">Some Cool Badges:</h3>
-<p align="left">[![An image of @rabindranathchanda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rabindranathchanda)](https://holopin.io/@rabindranathchanda)
-</p>
+[![An image of @rabindranathchanda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rabindranathchanda)](https://holopin.io/@rabindranathchanda)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
