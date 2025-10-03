@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabindra Nath Chanda</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindranathchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rabindranathchanda" /> </p>
 
@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **rabindra91237@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Some Cool Badges:</h3>
+<p align="left">[![An image of @rabindranathchanda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rabindranathchanda)](https://holopin.io/@rabindranathchanda)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
