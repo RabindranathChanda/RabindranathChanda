@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabindra Nath Chanda</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindranathchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rabindranathchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabindranathchanda&label=Profile%20views&color=03913a&style=flat" alt="rabindranathchanda" /> </p>
 
 - 👨‍💻 My Portfolio :  https://rabindranathchanda.github.io/RabindranathChanda/
 
